@@ -270,6 +270,10 @@ body * {
   background: #55acee;
 }
 
+.social-item.facebook {
+  background: #3b5998;
+}
+
 .social-item.home {
   background: #ffd00e;
 }
