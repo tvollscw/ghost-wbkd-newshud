@@ -274,6 +274,10 @@ body * {
   background: #3b5998;
 }
 
+.social-item.linkedin {
+  background: #0077B5;
+}
+
 .social-item.home {
   background: #ffd00e;
 }

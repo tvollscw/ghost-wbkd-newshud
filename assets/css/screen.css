@@ -438,6 +438,18 @@ margin on the iframe, cause it breaks stuff. */
 .social-message .link-facebook:hover{
     text-decoration: underline;
 }
+.social-message .icon-linkedin{
+    margin-right:.25em;
+    text-decoration: none;
+}
+.social-message .link-linkedin{
+    color: #3b5998;
+    text-decoration: none;
+}
+.social-message .link-linkedin:hover{
+    text-decoration: underline;
+}
+
 /* Big cover image on the home page */
 .main-header {
     position: relative;
